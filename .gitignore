@@ -22,6 +22,9 @@ DerivedData/
 *.perspectivev3
 !default.perspectivev3
 
+## Other
+.DS_Store
+
 ## Obj-C/Swift specific
 *.hmap
 
