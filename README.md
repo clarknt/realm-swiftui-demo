@@ -2,7 +2,7 @@
 
 A way of using *Realm* to persist data in a SwiftUI project.
 
-This builds on one of the projects from "100 days of SwiftUI" (original [here](https://github.com/clarknt/100-days-of-swiftui/tree/master/21-RealmSwiftUIDemo)), by adding *Realm* persistence to the previously available *File* and *CoreData*.
+This builds on one of the projects from "100 days of SwiftUI" (original [here](https://github.com/clarknt/100-days-of-swiftui/tree/master/21-Milestone-Projects13-15)), by adding *Realm* persistence to the previously available *File* and *CoreData*.
 
 To switch between persistence implementations, inject one of those in `SceneDelegate.swift`: `FilePersons()`, `CoreDataPersons()` or `RealmPersons()`.
   
